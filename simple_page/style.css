@@ -1,0 +1,17 @@
+.text_with_margin{
+    margin-left: 20px;
+}
+
+body {
+    max-width: 1500px;
+    width: 100%;
+    padding-left: 25%;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
